@@ -38,3 +38,6 @@ AllowBlatantCheater
 反编译一看——百家成分  
 仔细看看——Reflection套Reflection  
 再认真研究研究——屎山  
+屎山视觉渲染和屎山优化
+网站写这么的这么好，还不去写视觉优化
+抽象build
